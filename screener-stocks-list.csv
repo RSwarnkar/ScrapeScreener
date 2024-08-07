@@ -1,5 +1,5 @@
 Screener Stock Symbol,Url Segment
-526433,consolidate
+526433,consolidated
 532407,consolidated
 544021,consolidated
 AARTIDRUGS,consolidated
@@ -62,7 +62,7 @@ HINDUNILVR,consolidated
 HLEGLAS,consolidated
 HNDFDS,consolidated
 ICICIBANK,consolidated
-ICICIGI,consolidated
+ICICIGI,Null
 ICICIPRULI,consolidated
 IDEAFORGE,consolidated
 IDFCFIRSTB,consolidated
@@ -71,7 +71,7 @@ INDIGOPNTS,consolidated
 INFY,consolidated
 IRCON,consolidated
 IRCTC,consolidated
-IREDA,consolidated
+IREDA,Null
 ITC,consolidated
 JIOFIN,consolidated
 JUBLFOOD,consolidated
@@ -103,22 +103,22 @@ NAUKRI,consolidated
 NAVINFLUOR,consolidated
 NAZARA,consolidated
 NEOGEN,consolidated
-NESTLEIND,consolidated
-PAGEIND,consolidated
+NESTLEIND,Null
+PAGEIND,Null
 PARAS,consolidated
 PERSISTENT,consolidated
 PIDILITIND,consolidated
 PIIND,consolidated
 POLYCAB,consolidated
-PRINCEPIPE,consolidated
+PRINCEPIPE,Null
 RAILTEL,consolidated
 RAYMOND,consolidated
-RELAXO,consolidated
+RELAXO,Null
 RELIANCE,consolidated
 ROSSARI,consolidated
 ROUTE,consolidated
 RVNL,consolidated
-SBICARD,consolidated
+SBICARD,Null
 SBIN,consolidated
 SIEMENS,consolidated
 SONACOMS,consolidated
